@@ -1,4 +1,4 @@
-[! [MasterHead](https://tenor.com/tr/view/ngoding-mulu-gif-1747207714643625346)
+[![MasterHead](https://tenor.com/tr/view/ngoding-mulu-gif-1747207714643625346)
 
 <h1 align="center">Hi 👋, I'm Burak</h1>
 <h3 align="center">Kodlamaya ilgi duyan bilgisayar programcısı.</h3>
